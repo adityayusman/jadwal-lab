@@ -1,0 +1,21 @@
+body{
+	height:100%;margin:0;padding:0;
+}
+.{
+	text-align: center;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th {
+	width: 350px;
+	height: 30px;
+}
+td {
+	text-align: center;
+}
+@page { 
+	size: auto;  
+	margin: 0mm; 
+}
